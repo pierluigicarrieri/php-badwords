@@ -14,7 +14,7 @@
 
         <div class="card">
             <div class="card-body">
-                <form action="" method="$_POST">
+                <form action="server.php" method="POST">
                     <div class="mb-3">
                         <label class="text-center">Paragraph</label>
                         <input type="text" class="form-control m-auto" name="paragraph">
